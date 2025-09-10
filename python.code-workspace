@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../python"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ArdentProject_HeartDiseasePrediction",
+		"liveServer.settings.port": 5501
+	}
+}
